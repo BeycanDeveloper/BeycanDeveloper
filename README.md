@@ -15,7 +15,7 @@ Yeni bir şeyler öğrenmeyi severim ama hepsinde çok iyi olmak gibi bir amacı
 
 En çok PHP hakkında bilgi sahibiyim ama ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white) ve ![Vue JS](https://img.shields.io/badge/-Vue%20JS-31475E?style=flat&logo=vue.js&logoColor=fff) teknolojilerini daha çok seviyorum diyebilirim.
 
-[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=beycandeveloper&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=10&hide=html,smarty,javascript)
+[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=beycandeveloper&layout=compact&langs_count=10&hide=html,smarty,javascript)]
 
 
 Diğer bağlantılarım.
