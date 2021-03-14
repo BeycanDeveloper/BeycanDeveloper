@@ -3,6 +3,7 @@
 
 En çok bilgi sahibi olduğum dil ![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat&logo=PHP&logoColor=fff) ancak hobi olarak başka dilleri araştırmayı ve kurcalamayı severim. Aşağıda ilgilendiğim ve ilgileneceğim dilleri bulabilirsiniz.
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-323230?style=flat&logo=javascript&logoColor=fff)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white)
